@@ -1,15 +1,4 @@
-# Напишите функцию greet, которая принимает имя пользователя в качестве аргумента и
-# выводит приветственное сообщение вида "Привет, [имя]!".
-
-# def greet(name: str):
-#     return f'Привет {name}'
-#
-# print(greet(name="Elik"))
-
-# Напишите функцию count_vowels, которая принимает строку в качестве аргумента
-# и возвращает количество гласных букв в этой строке.
 text: str = "Helli Elik"
-
 def count_vowels(string: str) -> None:
     VOWELS: str = 'aeiouAEIOU'
     count: int = 0
