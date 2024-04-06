@@ -1,4 +1,4 @@
-text: str = "Helli Elik"
+text: str = "Hello Elik"
 
 def count_vowels(string: str) -> None:
     VOWELS: str = 'aeiouAEIOU'
