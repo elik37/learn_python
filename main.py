@@ -22,9 +22,6 @@ print_player_name(name=player_1)
 player_2 = 'Messi'
 print_player_name(name=player_2)
 
-player_3 = 'Neymar'
-print_player_name(name=player_3)
-
 player_4 = 'Ibrahimovic'
 print_player_name(name=player_4)
 
