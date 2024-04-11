@@ -5,7 +5,7 @@ def main() -> None:
     def num_collection(nums: list) -> None:
         for num in nums:
             if num == REQUIRED_NUMBER:
-                print('Число 7 знайдене')
+                print(f'Число {REQUIRED_NUMBER} знайдене')
             else:
                 print('Число не вірне')
 
