@@ -30,6 +30,6 @@ def main() -> None:
     player_5 = 'Shevchenko'
     print_player_name(name=player_5)
 
-    
+
 if __name__ == '__main__':
     main()
